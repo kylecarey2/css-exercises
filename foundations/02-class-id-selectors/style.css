@@ -1,0 +1,18 @@
+p {
+    background-color: rgb(255, 137, 137);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+.p-textsize {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: lightgreen;
+    font-weight: bold;
+}
